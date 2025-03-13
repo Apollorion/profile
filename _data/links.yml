@@ -56,6 +56,10 @@ buttons:
         url: https://github.com/Apollorion/MRPICKLE
         icon: token-branded:pickle
 
+      - title: Tofusible
+        url: https://github.com/spacelift-solutions/tofusible
+        icon: vscode-icons:file-type-opentofu
+
       - title: Plugin Sops
         url: https://github.com/spacelift-solutions/plugin-sops
         icon: simple-icons:mozilla
