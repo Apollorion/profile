@@ -49,9 +49,13 @@ buttons:
         url: https://github.com/Apollorion/MAAS2
         icon: game-icons:mars-curiosity
 
-  - category: Spacelift Modules
+  - category: Spacelift
     type: dropdown
     items:
+      - title: Day2DevOps Podcast
+        url: https://packetpushers.net/podcasts/day-two-devops/0423-d2do270-spacelift-is-your-infrastructure-glue-sponsored/
+        icon: el:podcast
+    
       - title: MRPICKLE
         url: https://github.com/Apollorion/MRPICKLE
         icon: token-branded:pickle
